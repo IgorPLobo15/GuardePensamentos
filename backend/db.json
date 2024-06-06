@@ -4,19 +4,23 @@
       "id": 2,
       "conteudo": "Penso, logo existo.",
       "autoria": "René Descartes",
-      "modelo": "modelo2"
+      "modelo": "modelo2",
+      "favorito": true
     },
     {
       "id": 3,
       "conteudo": "A vida só pode ser compreendida olhando-se para trás; mas só pode ser vivida olhando-se para frente.",
       "autoria": "Søren Kierkegaard",
-      "modelo": "modelo3"
+      "modelo": "modelo3",
+      "favorito": false
     },
     {
+      "id": 4,
       "conteudo": "A verdadeira sabedoria está em reconhecer a própria ignorância.",
       "autoria": "Sócrates ",
       "modelo": "modelo2",
-      "id": 4
+      "favorito": false
+
     }
   ]
 }
