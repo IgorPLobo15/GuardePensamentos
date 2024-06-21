@@ -10,7 +10,7 @@
     {
       "id": 3,
       "conteudo": "A vida só pode ser compreendida olhando-se para trás; mas só pode ser vivida olhando-se para frente.",
-      "autoria": "Søren Kierkegaard",
+      "autoria": "Søren Kierkegaard joao",
       "modelo": "modelo3",
       "favorito": false
     },
@@ -20,7 +20,6 @@
       "autoria": "Sócrates ",
       "modelo": "modelo2",
       "favorito": false
-
     }
   ]
 }
